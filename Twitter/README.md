@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - MyTwitter
 
-**Name of your app** is a basic twitter app to read your tweets.
+MyTwitter is a basic twitter app to read your tweets.
 
 Time spent: 6 hours spent in total
 
